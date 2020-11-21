@@ -2,9 +2,8 @@
 template: HomePage
 slug: ''
 title: Lady K.
-featuredImage: >-
-  https://ucarecdn.com/d8437fe9-e5da-464a-9311-24130ef43069/-/crop/2264x929/86,386/-/preview/
-subtitle: Der Shop mit brasilianischen Flair
+featuredImage: 'https://ucarecdn.com/11e285ca-415c-4e07-8d84-ed55b05bc495/'
+subtitle: Der Shop für brasilianischen Leckerein
 accordion:
   - content: abss
     title: Test
