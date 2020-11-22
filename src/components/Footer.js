@@ -1,9 +1,9 @@
 import React from 'react';
-import './Footer.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
+import './Footer.css';
 
-import './styles.scss';
+// import './styles.scss';
 
 export default () => (
   <div>

@@ -9,7 +9,6 @@
   "dependencies": {
     "@reach/router": "^1.2.1",
     "bootstrap": "^4.5.3",
-    "bootstrap-sass": "^3.4.1",
     "clsx": "^1.0.4",
     "css-loader": "^4.3.0",
     "dom-form-serializer": "^1.0.7",

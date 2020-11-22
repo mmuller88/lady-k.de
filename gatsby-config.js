@@ -1,4 +1,4 @@
-const postcssPresetEnv = require('postcss-preset-env')
+const postcssPresetEnv = require('postcss-preset-env');
 
 module.exports = {
   siteMetadata: {
@@ -97,16 +97,16 @@ module.exports = {
     },
 
     // css (replace with gatsby-plugin-sass for v2)
-    {
-      resolve: `gatsby-plugin-sass`,
-      options: {
-        postCssPlugins: [
-          postcssPresetEnv({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
-    },
+    // {
+    //   resolve: `gatsby-plugin-sass`,
+    //   options: {
+    //     postCssPlugins: [
+    //       postcssPresetEnv({
+    //         browsers: '> 0.5%, last 2 versions, ie 11'
+    //       })
+    //     ]
+    //   }
+    // },
     {
       resolve: `gatsby-plugin-postcss`,
       options: {
@@ -137,4 +137,4 @@ module.exports = {
     },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
-}
+};
