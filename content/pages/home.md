@@ -11,4 +11,4 @@ meta:
   description: ''
   title: ''
 ---
-Schön, dass Sie bei uns gelandet sind. Wir freuen uns über Ihren Besuch! Auf dieser Internetseite laden wir Sie ein, sich ein Bild über unser Gemeindeleben zu machen. Aktuelle Veranstaltungen entnehmen Sie bitte dem Veranstaltungskalender.
+Hallo duda
