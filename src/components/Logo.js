@@ -1,6 +1,6 @@
-import { size } from 'lodash'
-import React from 'react'
-import './Logo.css'
+import { size } from 'lodash';
+import React from 'react';
+import './Logo.css';
 
 export default () => (
   <div
@@ -11,4 +11,4 @@ export default () => (
       // backgroundImage: `url(/favicon.ico)`
     }}
   />
-)
+);

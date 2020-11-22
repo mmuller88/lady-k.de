@@ -1,15 +1,14 @@
 {
-  "name": "yellowcake",
-  "HomePage": "https://yellowcake.netlify.com/",
-  "description": "An opinionated starter project for creating lightning-fast websites with Gatsby v2 and Netlify CMS v2",
-  "version": "2.0.0",
+  "name": "lady-k.de",
+  "HomePage": "https://lady-k.de",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thriveweb/yellowcake"
+    "url": "https://github.com/mmuller88/lady-k.de"
   },
   "dependencies": {
     "@reach/router": "^1.2.1",
-    "bootstrap": "^3.3.5",
+    "bootstrap": "^4.5.3",
     "bootstrap-sass": "^3.4.1",
     "clsx": "^1.0.4",
     "css-loader": "^4.3.0",
@@ -48,8 +47,8 @@
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
-    "react-bootstrap": "^0.32.4",
     "react-big-calendar": "^0.28.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.11.0",
     "react-event-calendar": "^0.3.0",
     "react-feather": "^2.0.3",
